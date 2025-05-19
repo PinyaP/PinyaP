@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+I'm a Software Developer in Thailand , transition from web2 to web3 have experience in dapps and smart contracts
 
 - 🔭 I’m currently working on KRNL Labs
 - 🌱 I’m currently learning Solidity
